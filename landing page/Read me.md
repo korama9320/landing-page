@@ -1,0 +1,1 @@
+The starter project has some HTML and CSS styling to display a static version of the Landing Page project. i converted this project from a static project to an interactive one. By modifying the HTML and CSS files, but primarily the JavaScript file.
